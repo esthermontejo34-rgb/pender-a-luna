@@ -184,7 +184,7 @@ margin-top:60px;
 <body>
 
 <header>
-<img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\logo lunita.jpeg" class="logo">
+<img src="logo lunita.jpeg" class="logo">
 <h1> BL STORM-SHOP</h1>
 <p> "Diseños únicos para fans que viven cada hitoria con intensidad"</p>
 </header>
@@ -204,7 +204,7 @@ margin-top:60px;
 <!-- ESPACIO PARA VIDEO -->
 <div style="max-width:800px; margin:40px auto;">
 <video width="100%" controls>
-<source src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\muñe.mp4" type="video/mp4">
+<source src="muñe.mp4" type="video/mp4">
 Tu navegador no soporta el video.
 </video>
 </div>
@@ -219,35 +219,35 @@ Tu navegador no soporta el video.
 
 <div class="productos">
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\mini tartas.jpg"><h3>Mini Tartas </h3><p class="price">$25MX</p></div>
+<div class="card"><img src="mini tartas.jpg"><h3>Mini Tartas </h3><p class="price">$25MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\ENTREMET CHOCOLAT PRALINÉ NOISETTE.jpg"><h3>Entremet Chocolat Praline Noisette</h3><p class="price">$650MX</p></div>
+<div class="card"><img src="ENTREMET CHOCOLAT PRALINÉ NOISETTE.jpg"><h3>Entremet Chocolat Praline Noisette</h3><p class="price">$650MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\Éclair de Fresa.jpg"><h3> Éclair de Fresa </h3><p class="price">$65MX</p></div>
+<div class="card"><img src="Éclair de Fresa.jpg"><h3> Éclair de Fresa </h3><p class="price">$65MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\Classic French Profiteroles.jpg"><h3>Profiteroles clasicos </h3><p class="price">$25MX</p></div>
+<div class="card"><img src="Classic French Profiteroles.jpg"><h3>Profiteroles clasicos </h3><p class="price">$25MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\roles.jpg"><h3>Roles Glaciados</h3><p class="price">$45MX</p></div>
+<div class="card"><img src="roles.jpg"><h3>Roles Glaciados</h3><p class="price">$45MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\galletas.jpg"><h3>Caja de 10 Galletas </h3><p class="price">$75MX</p></div>
+<div class="card"><img src="galletas.jpg"><h3>Caja de 10 Galletas </h3><p class="price">$75MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\gitano.jpg"><h3>Brazo Gitano</h3><p class="price">$35MX</p></div>
+<div class="card"><img src="gitano.jpg"><h3>Brazo Gitano</h3><p class="price">$35MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\crosan.jpg"><h3>Croissant Rellenos</h3><p class="price">$40MX</p></div>
+<div class="card"><img src="crosan.jpg"><h3>Croissant Rellenos</h3><p class="price">$40MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\conchas.jpg"><h3>Conchas</h3><p class="price">$10MX</p></div>
+<div class="card"><img src="conchas.jpg"><h3>Conchas</h3><p class="price">$10MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\bolillos.jpg"><h3>Bolillos</h3><p class="price">$5MX</p></div>
+<div class="card"><img src="bolillos.jpg"><h3>Bolillos</h3><p class="price">$5MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\panecillos de queso crema.jpg"><h3>Panecillos de Queso philadelphia</h3><p class="price">$8MX</p></div>
+<div class="card"><img src="panecillos de queso crema.jpg"><h3>Panecillos de Queso philadelphia</h3><p class="price">$8MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\Palitos de Pan.jpg"><h3>Palillos de Pan</h3><p class="price">$35MX</p></div>
+<div class="card"><img src="Palitos de Pan.jpg"><h3>Palillos de Pan</h3><p class="price">$35MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\pan con ajo.jpg"><h3>Pan con Ajo </h3><p class="price">$65MX</p></div>
+<div class="card"><img src="pan con ajo.jpg"><h3>Pan con Ajo </h3><p class="price">$65MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\baguette de mozzarella.jpg"><h3>Baguette de Mozzarella</h3><p class="price">$55MX</p></div>
+<div class="card"><img src="baguette de mozzarella.jpg"><h3>Baguette de Mozzarella</h3><p class="price">$55MX</p></div>
 
-<div class="card"><img src="C:\Users\moral\Desktop\Pananeria Luna\imagenes\🥐 Brioche Hot Dog Buns 🥐.jpg"><h3>Brioche Hot Dog Buns</h3><p class="price">$10MX</p></div>
+<div class="card"><img src="🥐 Brioche Hot Dog Buns 🥐.jpg"><h3>Brioche Hot Dog Buns</h3><p class="price">$10MX</p></div>
 
 
 
